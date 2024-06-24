@@ -1,0 +1,7 @@
+Installing dlib and face_recognition
+https://gist.github.com/MikeTrizna/4964278bb6378de72ba4b195553a3954
+или
+У меня были проблемы с установкой библиотеки для распознавания лиц cmakeи dlib,
+все установилось как попробовал эти версии cmakeи dlib:
+pip install cmake==3.25.2
+pip install dlib==19.24.2
